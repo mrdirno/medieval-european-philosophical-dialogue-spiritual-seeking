@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-philosophical-dialogue-spiritual-seeking",
+  "title": "The Patient Shadow of Doubt",
+  "tagline": "In a world of absolute faith, one monk's quest for truth pits the heat of reason against the cold stone of dogma.",
+  "target_words": 70146,
+  "actual_words": 70146,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Faith vs. Reason",
+    "The Nature of Divine Attention",
+    "Intellectual Heresy",
+    "The Solitude of Seeking"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Scrap of Charred Certainty",
+      "words": 5845
+    },
+    {
+      "ch": 2,
+      "title": "The Clattering Bridge of Creation",
+      "words": 5845
+    },
+    {
+      "ch": 3,
+      "title": "The Ghost at the Feast of Reason",
+      "words": 5845
+    },
+    {
+      "ch": 4,
+      "title": "The Knife of Logic",
+      "words": 5845
+    },
+    {
+      "ch": 5,
+      "title": "A Burial in Grey",
+      "words": 5845
+    },
+    {
+      "ch": 6,
+      "title": "The Blade of Clarifying Light",
+      "words": 5845
+    },
+    {
+      "ch": 7,
+      "title": "The Patient Shadow",
+      "words": 5845
+    },
+    {
+      "ch": 8,
+      "title": "The Cage of Contradictions",
+      "words": 5845
+    },
+    {
+      "ch": 9,
+      "title": "A City of Tarnished Chalice",
+      "words": 5845
+    },
+    {
+      "ch": 10,
+      "title": "Fingers in the Yielding Loam",
+      "words": 5845
+    },
+    {
+      "ch": 11,
+      "title": "A Seismic Shift in the Atmosphere",
+      "words": 5845
+    },
+    {
+      "ch": 12,
+      "title": "The Rain That Softens Fallow Ground",
+      "words": 5845
+    }
+  ]
+}
